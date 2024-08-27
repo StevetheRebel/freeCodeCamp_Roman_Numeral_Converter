@@ -10,7 +10,7 @@ function errorStyle() {
 }
 
 function restoreStyle() {
-  outputCtn.style.visibility = "visibile";
+  outputCtn.style.visibility = "visible";
   outputCtn.style.border = "2px solid white";
   outputCtn.style.backgroundColor = "var(--card-background)";
   outputCtn.style.color = "white";
